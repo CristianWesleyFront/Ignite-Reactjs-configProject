@@ -1,7 +1,7 @@
 # Ignite Reactjs Config-Project
 
 <h1 align="center">
-  <img src="https://miro.medium.com/max/1200/1*fs0ScMc45X9QEwno8G414A.png" width="65%"> 
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5d4520b6-4a30-4e39-8716-5e534a7bb5bc%2Fcover-reactjs.png?table=block&id=b9f0f025-c95b-4376-99d0-c3115f55b0f1&width=5120&userId=c1e3fa1a-7b13-4263-80da-584276431758&cache=v2" width="75%"> 
 </h1>
 
 ## 🚀 Indice
